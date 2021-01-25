@@ -26,8 +26,8 @@
             "id": "https://islatentaciones.ml/en-directo.html",
             "url": "https://islatentaciones.ml/en-directo.html",
             "title": "El debate de las tentaciones",
-            "summary": "TelecincoMitele ",
-            "content_html": "<h2><strong>Telecinco</strong></h2>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"640\" height=\"360\" src=\"//ok.ru/videoembed/2342339419763\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<h2>Mitele</h2>\n<p>\n<script type=\"text/javascript\" src=\"https://cdn.jsdelivr.net/npm/clappr@latest/dist/clappr.min.js\">\n  </script>\n</p>\n<div id=\"player\"> </div>\n<p>\n<script>\n    var player = new Clappr.Player({source: \"https://linear01-i.akamaihd.net/hls/live/873194/gh01/03.m3u8\", parentId: \"#player\"});\n  </script>\n</p>",
+            "summary": "TelecincoRevolucionariosTV Mediaset ES ",
+            "content_html": "<h2><strong>Telecinco</strong></h2>\n<p class=\"msg msg--info\"><a href=\"https://revolucionariostv.eu/\" target=\"_blank\" rel=\"noopener noreferrer\">RevolucionariosTV</a></p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"640\" height=\"360\" src=\"//ok.ru/videoembed/2342339419763\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<h2>Mitele</h2>\n<p class=\"msg msg--info\"><a href=\"https://www.mitele.es/directo/el-debate-de-las-tentaciones/\">Mediaset ES</a></p>\n<p>\n<script type=\"text/javascript\" src=\"https://cdn.jsdelivr.net/npm/clappr@latest/dist/clappr.min.js\">\n  </script>\n</p>\n<div id=\"player\"> </div>\n<p>\n<script>\n    var player = new Clappr.Player({source: \"https://linear01-i.akamaihd.net/hls/live/873194/gh01/03.m3u8\", parentId: \"#player\"});\n  </script>\n</p>",
             "image": "https://islatentaciones.ml/media/posts/1/F7tIpWd9Fo66VAby6bsm61.jpg",
             "author": {
                 "name": "islatentaciones"
@@ -36,7 +36,7 @@
                    "En directo"
             ],
             "date_published": "2021-01-25T20:19:04+00:00",
-            "date_modified": "2021-01-25T20:52:05+00:00"
+            "date_modified": "2021-01-25T22:08:40+00:00"
         }
     ]
 }
