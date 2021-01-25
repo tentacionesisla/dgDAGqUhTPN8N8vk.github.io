@@ -3,7 +3,7 @@
     <title>La isla de las tentaciones</title>
     <link href="https://islatentaciones.ml/feed.xml" rel="self" />
     <link href="https://islatentaciones.ml" />
-    <updated>2021-01-25T22:08:40+00:00</updated>
+    <updated>2021-01-25T22:11:30+00:00</updated>
     <author>
         <name>islatentaciones</name>
     </author>
@@ -31,21 +31,21 @@
         <id>https://islatentaciones.ml/en-directo.html</id>
             <category term="En directo"/>
 
-        <updated>2021-01-25T22:08:40+00:00</updated>
+        <updated>2021-01-25T22:11:30+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://islatentaciones.ml/media/posts/1/F7tIpWd9Fo66VAby6bsm61.jpg" alt="" />
-                    TelecincoRevolucionariosTV Mediaset ES 
+                    TelecincoOfrecida por RevolucionariosTV Ofrecida por Mediaset ES 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://islatentaciones.ml/media/posts/1/F7tIpWd9Fo66VAby6bsm61.jpg" alt="" />
                 <h2><strong>Telecinco</strong></h2>
-<p class="msg msg--info"><a href="https://revolucionariostv.eu/" target="_blank" rel="noopener noreferrer">RevolucionariosTV</a></p>
+<p class="msg msg--info">Ofrecida por <a href="https://revolucionariostv.eu/" target="_blank" rel="noopener noreferrer">RevolucionariosTV</a></p>
 <div class="post__iframe"><iframe loading="lazy" width="640" height="360" src="//ok.ru/videoembed/2342339419763" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
 <h2>Mitele</h2>
-<p class="msg msg--info"><a href="https://www.mitele.es/directo/el-debate-de-las-tentaciones/">Mediaset ES</a></p>
+<p class="msg msg--info">Ofrecida por <a href="https://www.mitele.es/directo/el-debate-de-las-tentaciones/">Mediaset ES</a></p>
 <p>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/clappr@latest/dist/clappr.min.js">
   </script>
