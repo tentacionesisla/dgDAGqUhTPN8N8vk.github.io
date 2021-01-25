@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://islatentaciones.ml/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://islatentaciones.ml/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>http://islatentaciones.ml/</loc>
+<loc>https://islatentaciones.ml/</loc>
 </url>
 <url>
-<loc>http://islatentaciones.ml/en-directo.html</loc>
+<loc>https://islatentaciones.ml/en-directo.html</loc>
 <lastmod>2021-01-25T20:52:05+00:00</lastmod>
 <image:image>
-<image:loc>http://islatentaciones.ml/media\posts\1/F7tIpWd9Fo66VAby6bsm61.jpg</image:loc>
+<image:loc>https://islatentaciones.ml/media\posts\1/F7tIpWd9Fo66VAby6bsm61.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://islatentaciones.ml/pronto-los-programasdebates.html</loc>
+<loc>https://islatentaciones.ml/pronto-los-programasdebates.html</loc>
 <lastmod>2021-01-25T21:11:28+00:00</lastmod>
 </url>
 </urlset>
