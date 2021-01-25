@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "La isla de las tentaciones",
+    "description": "",
+    "home_page_url": "https://islatentaciones.ml",
+    "feed_url": "https://islatentaciones.ml/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "islatentaciones"
+    },
+    "items": [
+    ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>La isla de las tentaciones</title>
+    <link href="https://islatentaciones.ml/feed.xml" rel="self" />
+    <link href="https://islatentaciones.ml" />
+    <updated>1970-01-01T00:00:00+00:00</updated>
+    <author>
+        <name>islatentaciones</name>
+    </author>
+    <id>https://islatentaciones.ml</id>
+
+</feed>
