@@ -9,5 +9,21 @@
         "name": "islatentaciones"
     },
     "items": [
+        {
+            "id": "https://islatentaciones.ml/en-directo.html",
+            "url": "https://islatentaciones.ml/en-directo.html",
+            "title": "El debate de las tentaciones",
+            "summary": "TelecincoMitele ",
+            "content_html": "<h2><strong>Telecinco</strong></h2>\n<h2>Mitele</h2>\n<p> </p>\n<p> </p>",
+            "image": "https://islatentaciones.ml/media/posts/1/F7tIpWd9Fo66VAby6bsm61.jpg",
+            "author": {
+                "name": "islatentaciones"
+            },
+            "tags": [
+                   "En directo"
+            ],
+            "date_published": "2021-01-25T20:19:04+00:00",
+            "date_modified": "2021-01-25T20:19:56+00:00"
+        }
     ]
 }
