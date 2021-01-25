@@ -3,7 +3,7 @@
     <title>La isla de las tentaciones</title>
     <link href="https://islatentaciones.ml/feed.xml" rel="self" />
     <link href="https://islatentaciones.ml" />
-    <updated>2021-01-25T20:19:56+00:00</updated>
+    <updated>2021-01-25T20:45:20+00:00</updated>
     <author>
         <name>islatentaciones</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://islatentaciones.ml/en-directo.html</id>
             <category term="En directo"/>
 
-        <updated>2021-01-25T20:19:56+00:00</updated>
+        <updated>2021-01-25T20:45:20+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://islatentaciones.ml/media/posts/1/F7tIpWd9Fo66VAby6bsm61.jpg" alt="" />
@@ -30,8 +30,12 @@
                     <img src="https://islatentaciones.ml/media/posts/1/F7tIpWd9Fo66VAby6bsm61.jpg" alt="" />
                 <h2><strong>Telecinco</strong></h2>
 <h2>Mitele</h2>
-<p> </p>
-<p> </p>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/clappr@latest/dist/clappr.min.js">
+  </script>
+<div id="player"> </div>
+<script>
+    var player = new Clappr.Player({source: "https://linear01-i.akamaihd.net/hls/live/873194/gh01/03.m3u8", parentId: "#player"});
+  </script>
             ]]>
         </content>
     </entry>
