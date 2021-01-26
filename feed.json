@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://islatentaciones.ml/debate-1.html",
+            "url": "https://islatentaciones.ml/debate-1.html",
+            "title": "Debate 1",
+            "summary": "Hacía cuatro meses que Melyssa Pinto y Tom Brusse no se veían. Los que fueran pareja en 'La isla de las tentaciones 2' hasta&hellip;",
+            "content_html": "<p>Hacía cuatro meses que Melyssa Pinto y Tom Brusse no se veían. Los que fueran pareja en 'La isla de las tentaciones 2' hasta que él le fue infiel con una de las solteras, Sandra Pica, se reencontraban. También, este año, el programa incorpora una gran novedad: la luz de la tentación (25/01/2021).</p>\n<p> </p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"640\" height=\"360\" frameborder=\"0\" src=\"https://streamable.com/o/wmeksp\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://islatentaciones.ml/media/posts/4/islatentaciones3_debate1_e02b.jpg",
+            "author": {
+                "name": "islatentaciones"
+            },
+            "tags": [
+                   "Temporada 3"
+            ],
+            "date_published": "2021-01-26T15:22:40+00:00",
+            "date_modified": "2021-01-26T15:23:28+00:00"
+        },
+        {
             "id": "https://islatentaciones.ml/3x01.html",
             "url": "https://islatentaciones.ml/3x01.html",
             "title": "Programa 1",
@@ -24,7 +40,7 @@
                    "Programas"
             ],
             "date_published": "2021-01-25T22:35:14+00:00",
-            "date_modified": "2021-01-26T15:12:37+00:00"
+            "date_modified": "2021-01-26T15:23:01+00:00"
         },
         {
             "id": "https://islatentaciones.ml/en-directo.html",

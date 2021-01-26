@@ -3,12 +3,37 @@
     <title>La isla de las tentaciones</title>
     <link href="https://islatentaciones.ml/feed.xml" rel="self" />
     <link href="https://islatentaciones.ml" />
-    <updated>2021-01-26T15:12:37+00:00</updated>
+    <updated>2021-01-26T15:23:28+00:00</updated>
     <author>
         <name>islatentaciones</name>
     </author>
     <id>https://islatentaciones.ml</id>
 
+    <entry>
+        <title>Debate 1</title>
+        <author>
+            <name>islatentaciones</name>
+        </author>
+        <link href="https://islatentaciones.ml/debate-1.html"/>
+        <id>https://islatentaciones.ml/debate-1.html</id>
+            <category term="Temporada 3"/>
+
+        <updated>2021-01-26T15:23:28+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://islatentaciones.ml/media/posts/4/islatentaciones3_debate1_e02b.jpg" alt="" />
+                    Hacía cuatro meses que Melyssa Pinto y Tom Brusse no se veían. Los que fueran pareja en 'La isla de las tentaciones 2' hasta&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://islatentaciones.ml/media/posts/4/islatentaciones3_debate1_e02b.jpg" alt="" />
+                <p>Hacía cuatro meses que Melyssa Pinto y Tom Brusse no se veían. Los que fueran pareja en 'La isla de las tentaciones 2' hasta que él le fue infiel con una de las solteras, Sandra Pica, se reencontraban. También, este año, el programa incorpora una gran novedad: la luz de la tentación (25/01/2021).</p>
+<p> </p>
+<div class="post__iframe"><iframe loading="lazy" width="640" height="360" frameborder="0" src="https://streamable.com/o/wmeksp" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Programa 1</title>
         <author>
@@ -19,7 +44,7 @@
             <category term="Temporada 3"/>
             <category term="Programas"/>
 
-        <updated>2021-01-26T15:12:37+00:00</updated>
+        <updated>2021-01-26T15:23:01+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://islatentaciones.ml/media/posts/3/laislat3_programa1_239b.jpg" alt="" />
