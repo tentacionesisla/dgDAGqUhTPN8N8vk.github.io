@@ -3,7 +3,7 @@
     <title>La isla de las tentaciones</title>
     <link href="https://islatentaciones.ml/feed.xml" rel="self" />
     <link href="https://islatentaciones.ml" />
-    <updated>2021-01-27T00:07:01+00:00</updated>
+    <updated>2021-01-27T00:11:21+00:00</updated>
     <author>
         <name>islatentaciones</name>
     </author>
@@ -69,11 +69,11 @@
         <id>https://islatentaciones.ml/en-directo.html</id>
             <category term="En directo"/>
 
-        <updated>2021-01-27T00:07:01+00:00</updated>
+        <updated>2021-01-27T00:11:21+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://islatentaciones.ml/media/posts/1/F7tIpWd9Fo66VAby6bsm61.jpg" alt="" />
-                    Programación CanalFecha y horaLa isla de las tentacionesTelecincoJueves 22:00El debate de las tentacionesmitelePLUS Telecinco Lunes 22:30 Lunes 23:00 Ofrecida por RevolucionariosTV&hellip;
+                    ProgramaciónEmisiónCanalFecha y horaLa isla de las tentacionesTelecincoJueves 22:00El debate de las tentacionesmitelePLUS Telecinco Lunes 22:30 Lunes 23:00 Ofrecida por RevolucionariosTV&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -89,22 +89,22 @@
 <table style="border-collapse: collapse; width: 100%; height: 200px;" border="1">
 <tbody>
 <tr style="height: 50px;">
-<td class="align-center" style="width: 50%; height: 50px;"> </td>
-<td class="align-center" style="width: 25%; height: 50px;"><strong>Canal</strong></td>
-<td class="align-center" style="width: 25%; height: 50px;"><strong>Fecha y hora</strong></td>
+<td class="align-center" style="width: 38.703%; height: 50px;"><strong>Emisión</strong></td>
+<td class="align-center" style="width: 27.2314%; height: 50px;"><strong>Canal</strong></td>
+<td class="align-center" style="width: 34.0656%; height: 50px;"><strong>Fecha y hora</strong></td>
 </tr>
 <tr style="height: 50px;">
-<td style="width: 50%; height: 50px;">La isla de las tentaciones</td>
-<td class="align-center" style="width: 25%; height: 50px;">Telecinco</td>
-<td class="align-center" style="width: 25%; height: 50px;">Jueves 22:00</td>
+<td style="width: 38.703%; height: 50px;">La isla de las tentaciones</td>
+<td class="align-center" style="width: 27.2314%; height: 50px;">Telecinco</td>
+<td class="align-center" style="width: 34.0656%; height: 50px;">Jueves 22:00</td>
 </tr>
 <tr style="height: 50px;">
-<td style="width: 50%; height: 50px;">El debate de las tentaciones</td>
-<td class="align-center" style="width: 25%; height: 50px;">
+<td style="width: 38.703%; height: 50px;">El debate de las tentaciones</td>
+<td class="align-center" style="width: 27.2314%; height: 50px;">
 <p>mitelePLUS</p>
 <p>Telecinco</p>
 </td>
-<td class="align-center" style="width: 25%; height: 50px;">
+<td class="align-center" style="width: 34.0656%; height: 50px;">
 <p>Lunes 22:30</p>
 <p>Lunes 23:00</p>
 </td>
@@ -114,7 +114,7 @@
 <h2><strong>Telecinco</strong></h2>
 <p class="msg msg--info">Ofrecida por <a href="https://revolucionariostv.eu/" target="_blank" rel="noopener noreferrer">RevolucionariosTV</a></p>
 <div class="post__iframe"><iframe loading="lazy" width="640" height="360" src="//ok.ru/videoembed/2342339419763" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-<h2>mitelePLUS (22:30 - 23:00)</h2>
+<h2>mitelePLUS </h2>
 <p class="msg msg--info">Ofrecida por <a href="https://www.mitele.es/directo/el-debate-de-las-tentaciones/">Mediaset ES</a></p>
 <p>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/clappr@latest/dist/clappr.min.js">
