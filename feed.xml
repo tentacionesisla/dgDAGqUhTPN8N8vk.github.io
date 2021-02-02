@@ -3,7 +3,7 @@
     <title>La isla de las tentaciones</title>
     <link href="https://islatentaciones.ml/feed.xml" rel="self" />
     <link href="https://islatentaciones.ml" />
-    <updated>2021-02-02T13:00:55+00:00</updated>
+    <updated>2021-02-02T13:01:51+00:00</updated>
     <author>
         <name>islatentaciones</name>
     </author>
@@ -16,8 +16,10 @@
         </author>
         <link href="https://islatentaciones.ml/debate-2.html"/>
         <id>https://islatentaciones.ml/debate-2.html</id>
+            <category term="Temporada 3"/>
+            <category term="Debates"/>
 
-        <updated>2021-02-02T13:00:55+00:00</updated>
+        <updated>2021-02-02T13:01:51+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://islatentaciones.ml/media/posts/6/islatentaciones3_debate2_09a2.jpg" alt="" />
