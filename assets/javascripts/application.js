@@ -20994,7 +20994,7 @@ $(function() {
     })
 }), $(function() {
     $.get("nudistr.m3u", function(t) {
-        var i, r, a = "";
+        var i, contenido, a = "";
         $.each(parseM3U(t).tracks, function(t, e) {
             var n = e.file.replace(".m3u8,.mp4,.vp8,.ts,.mpeg,.mov,.mpeg4,.h264,.avc,.flv,.avi,.divx,.mp3,.mkv"),
                 i = e.title,
