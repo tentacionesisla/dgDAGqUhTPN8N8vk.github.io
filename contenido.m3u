@@ -1,5 +1,6 @@
 ﻿#EXTM3U
-
+#EXTINF:-1, tvg-id="En directo" tvg-logo="https://album.mediaset.es/eimg/2020/01/24/F7tIpWd9Fo66VAby6bsm61.jpg" tvg-name="En directo"  group-title="directo",mitelePLUS
+https://linear01-i.akamaihd.net/hls/live/873194/gh01/03.m3u8
 #EXTINF:-1, tvg-id="Programas" tvg-logo="https://album.mediaset.es/cimg/807010/2021/01/21/laislat3_programa1_239b.jpg" tvg-name="Programas"  group-title="programas",Programa 1
 https://streamable.com/l/urj0yr/mp4.mp4
 #EXTINF:-1, tvg-id="Debates" tvg-logo="https://album.mediaset.es/cimg/807010/2021/01/26/islatentaciones3_debate1_e02b.jpg" tvg-name="Debates"  group-title="debates",Debate 1
