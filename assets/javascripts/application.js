@@ -20069,7 +20069,7 @@ function(t, e) {
                         if (this.$el.html(this.template()), this.options.poster && void 0 === this.options.poster.custom) {
                             var t = this.options.poster.url || this.options.poster;
                             this.$el.css({
-                                "background-image": "url(" + t + ")"
+                                "background-image": "url(" + t + "); background-size: auto"
                             })
                         } else this.options.poster && this.$el.css({
                             background: this.options.poster.custom
