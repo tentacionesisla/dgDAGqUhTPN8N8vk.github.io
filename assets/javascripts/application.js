@@ -21000,7 +21000,7 @@ $(function() {
                 i = e.title,
                 r = e.params["tvg-logo"],
                 o = toSlug(e.params["group-title"]);
-            a += '<div class="channels__item ' + o + '" data-remodal-target="modal" data-link="' + n + '">', a += '<div class="channels__item-image"><img width="300" height="200" src="' + r + '" alt="' + i + '"></div>', a += '<h3 class="channels__item-title">' + i + "</h3>", a += "</div>"
+            a += '<iframe src="https://www5.cbox.ws/box/?boxid=923754&boxtag=5pUbc6" width="100%" height="450" allowtransparency="yes" allow="autoplay" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto"></iframe>	<br> <div class="channels__item ' + o + '" data-remodal-target="modal" data-link="' + n + '">', a += '<div class="channels__item-image"><img width="300" height="200" src="' + r + '" alt="' + i + '"></div>', a += '<h3 class="channels__item-title">' + i + "</h3>", a += "</div>"
         }), $(".channels__list").html(a), $(".channels__list").parents(".channels").addClass("loaded");
         var n, o = $(".channels__list").isotope({
                 itemSelector: ".channels__item",
