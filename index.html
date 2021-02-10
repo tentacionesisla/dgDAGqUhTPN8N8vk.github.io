@@ -58,27 +58,7 @@
 
 <body>
 <div id="chat" class="animated-chat tada" onclick="loadChatbox()">Chat</div>
-<div class="chatbox" id="chatbox">
-<span class="chat-text">La isla de las tentaciones</span>
-<script>
-//<![CDATA[
 
-document.write('<iframe src="https://www5.cbox.ws/box/?boxid=923754&boxtag=5pUbc6" scrolling="no" frameborder="0" width="280px" height="450px" style="border:0; margin:0; padding: 0;">');
-document.write('</iframe>');
-//]]>
-</script>
-<div id="close-chat" onclick="closeChatbox()">&times;</div>
-<div id="minim-chat" onclick="minimChatbox()"><span class="minim-button">&minus;</span></div>
-<div id="maxi-chat" onclick="loadChatbox()"><span class="maxi-button">&plus;</span></div>
-</div>
-
-<script>
-//<![CDATA[
-function loadChatbox(){var e=document.getElementById("minim-chat");e.style.display="block";var e=document.getElementById("maxi-chat");e.style.display="none";var e=document.getElementById("chatbox");e.style.margin="0";}
-function closeChatbox(){var e=document.getElementById("chatbox");e.style.margin="0 0 -1500px 0";}
-function minimChatbox(){var e=document.getElementById("minim-chat");e.style.display="none";var e=document.getElementById("maxi-chat");e.style.display="block";var e=document.getElementById("chatbox");e.style.margin="0 0 -460px 0";}
-//]]>
-</script>
   <h1 class="hide">La isla de las tentaciones</h1>
   <header class="header">
     <div class="container">
@@ -162,7 +142,27 @@ function minimChatbox(){var e=document.getElementById("minim-chat");e.style.disp
   <script async defer src="assets/javascripts/application.js"></script>
 
 
+<div class="chatbox" id="chatbox">
+<span class="chat-text">La isla de las tentaciones</span>
+<script>
+//<![CDATA[
 
+document.write('<iframe src="https://www5.cbox.ws/box/?boxid=923754&boxtag=5pUbc6" scrolling="no" frameborder="0" width="280px" height="450px" style="border:0; margin:0; padding: 0;">');
+document.write('</iframe>');
+//]]>
+</script>
+<div id="close-chat" onclick="closeChatbox()">&times;</div>
+<div id="minim-chat" onclick="minimChatbox()"><span class="minim-button">&minus;</span></div>
+<div id="maxi-chat" onclick="loadChatbox()"><span class="maxi-button">&plus;</span></div>
+</div>
+
+<script>
+//<![CDATA[
+function loadChatbox(){var e=document.getElementById("minim-chat");e.style.display="block";var e=document.getElementById("maxi-chat");e.style.display="none";var e=document.getElementById("chatbox");e.style.margin="0";}
+function closeChatbox(){var e=document.getElementById("chatbox");e.style.margin="0 0 -1500px 0";}
+function minimChatbox(){var e=document.getElementById("minim-chat");e.style.display="none";var e=document.getElementById("maxi-chat");e.style.display="block";var e=document.getElementById("chatbox");e.style.margin="0 0 -460px 0";}
+//]]>
+</script>
 
 <style>
 #chat,#chat:after,.chatbox{transition:all .4s ease-in-out}
