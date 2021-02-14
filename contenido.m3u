@@ -2,9 +2,9 @@
 #EXTINF:-1, tvg-id="En directo" tvg-logo="https://album.mediaset.es/eimg/2020/01/24/F7tIpWd9Fo66VAby6bsm61.jpg" tvg-name="En directo"  group-title="directo",mitelePLUS
 https://linear01-i.akamaihd.net/hls/live/873194/gh01/03.m3u8
 #EXTINF:-1, tvg-id="Programas" tvg-logo="https://album.mediaset.es/cimg/807010/2021/01/21/laislat3_programa1_239b.jpg" tvg-name="Programas"  group-title="programas",Programa 1
-https://streamable.com/l/urj0yr/mp4.mp4
+https://provider1.azureedge.net/l/1795q9/1795q9.mp4
 #EXTINF:-1, tvg-id="Debates" tvg-logo="https://album.mediaset.es/cimg/807010/2021/01/26/islatentaciones3_debate1_e02b.jpg" tvg-name="Debates"  group-title="debates",Debate 1
-https://streamable.com/l/jl4329/mp4.mp4
+https://provider1.azureedge.net/l/wmeksp/wmeksp.mp4
 #EXTINF:-1, tvg-id="Programas" tvg-logo="https://album.mediaset.es/cimg/807010/2021/01/28/alaislat3_programa2_0758.jpg" tvg-name="Programas"  group-title="programas",Programa 2
 https://streamable.com/l/n2dqzj/mp4.mp4
 #EXTINF:-1, tvg-id="Debates" tvg-logo="https://album.mediaset.es/cimg/807010/2021/02/02/islatentaciones3_debate2_09a2.jpg" tvg-name="Debates"  group-title="debates",Debate 2
