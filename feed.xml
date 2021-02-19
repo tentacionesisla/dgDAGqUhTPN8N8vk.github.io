@@ -3,7 +3,7 @@
     <title>La isla de las tentaciones</title>
     <link href="https://islatentaciones.ml/feed.xml" rel="self" />
     <link href="https://islatentaciones.ml" />
-    <updated>2021-02-19T04:15:53+00:00</updated>
+    <updated>2021-02-19T04:20:50+00:00</updated>
     <author>
         <name>islatentaciones</name>
     </author>
@@ -35,6 +35,32 @@
         </content>
     </entry>
     <entry>
+        <title>Programa 2</title>
+        <author>
+            <name>islatentaciones</name>
+        </author>
+        <link href="https://islatentaciones.ml/3x02.html"/>
+        <id>https://islatentaciones.ml/3x02.html</id>
+            <category term="Temporada 3"/>
+            <category term="Programas"/>
+
+        <updated>2021-02-19T04:20:50+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://islatentaciones.ml/media/posts/5/alaislat3_programa2_0758.jpg" alt="" />
+                    Saltan las alarmas de la casa. Por primera vez se enciende la 'luz de la tentación'. Eso quiere decir que&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://islatentaciones.ml/media/posts/5/alaislat3_programa2_0758.jpg" alt="" />
+                <p>Saltan las alarmas de la casa. Por primera vez se enciende la 'luz de la tentación'. Eso quiere decir que algo ha pasado en una de las dos villas y que alguien ha sobrepasado los límites que las parejas marcaron antes de comenzar esta aventura. Además, los chicos se enfrentan a su primera hoguera con imágenes de lo que están haciendo sus parejas.  </p>
+<p> </p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/2947627092540" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>En directo</title>
         <author>
             <name>islatentaciones</name>
@@ -43,11 +69,11 @@
         <id>https://islatentaciones.ml/en-directo.html</id>
             <category term="En directo"/>
 
-        <updated>2021-02-04T20:41:48+00:00</updated>
+        <updated>2021-02-19T04:20:03+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://islatentaciones.ml/media/posts/1/lsislathub_2140.jpg" alt="" />
-                    ProgramaciónEmisiónCanalFecha y horaLa isla de las tentacionesTelecincoJueves 22:00El debate de las tentacionesmitelePLUS Telecinco Lunes 22:30 Lunes 23:00 Ofrecida por RevolucionariosTV&hellip;
+                    ProgramaciónEmisiónCanalFecha y horaLa isla de las tentacionesTelecincoJueves 22:00El debate de las tentacionesmitelePLUS Telecinco Lunes 21:30 Lunes 22:00 Ofrecida por RevolucionariosTV&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -79,8 +105,8 @@
 <p>Telecinco</p>
 </td>
 <td class="align-center" style="width: 34.0656%; height: 50px;">
-<p>Lunes 22:30</p>
-<p>Lunes 23:00</p>
+<p>Lunes 21:30</p>
+<p>Lunes 22:00</p>
 </td>
 </tr>
 </tbody>
