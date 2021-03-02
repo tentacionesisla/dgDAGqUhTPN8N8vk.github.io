@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://islatentaciones.ml/debate-6.html",
+            "url": "https://islatentaciones.ml/debate-6.html",
+            "title": "Debate 6",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/2967881779772\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://islatentaciones.ml/media/posts/16/islatentaciones3_debate6_ad74.jpg",
+            "author": {
+                "name": "islatentaciones"
+            },
+            "tags": [
+                   "Temporada 3",
+                   "Debates"
+            ],
+            "date_published": "2021-03-02T15:05:26+00:00",
+            "date_modified": "2021-03-02T15:05:26+00:00"
+        },
+        {
             "id": "https://islatentaciones.ml/3x06.html",
             "url": "https://islatentaciones.ml/3x06.html",
             "title": "Programa 6",

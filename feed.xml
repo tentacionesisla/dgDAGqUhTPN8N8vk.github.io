@@ -3,12 +3,31 @@
     <title>La isla de las tentaciones</title>
     <link href="https://islatentaciones.ml/feed.xml" rel="self" />
     <link href="https://islatentaciones.ml" />
-    <updated>2021-03-01T19:11:12+00:00</updated>
+    <updated>2021-03-02T15:05:26+00:00</updated>
     <author>
         <name>islatentaciones</name>
     </author>
     <id>https://islatentaciones.ml</id>
 
+    <entry>
+        <title>Debate 6</title>
+        <author>
+            <name>islatentaciones</name>
+        </author>
+        <link href="https://islatentaciones.ml/debate-6.html"/>
+        <id>https://islatentaciones.ml/debate-6.html</id>
+            <category term="Temporada 3"/>
+            <category term="Debates"/>
+
+        <updated>2021-03-02T15:05:26+00:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://islatentaciones.ml/media/posts/16/islatentaciones3_debate6_ad74.jpg" alt="" />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/2967881779772" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Programa 6</title>
         <author>
