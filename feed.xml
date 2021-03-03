@@ -3,12 +3,41 @@
     <title>La isla de las tentaciones</title>
     <link href="https://islatentaciones.ml/feed.xml" rel="self" />
     <link href="https://islatentaciones.ml" />
-    <updated>2021-03-02T15:05:26+00:00</updated>
+    <updated>2021-03-03T19:43:58+00:00</updated>
     <author>
         <name>islatentaciones</name>
     </author>
     <id>https://islatentaciones.ml</id>
 
+    <entry>
+        <title>Programa 7</title>
+        <author>
+            <name>islatentaciones</name>
+        </author>
+        <link href="https://islatentaciones.ml/3x07.html"/>
+        <id>https://islatentaciones.ml/3x07.html</id>
+            <category term="Temporada 3"/>
+            <category term="Programas"/>
+
+        <updated>2021-03-03T19:43:58+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://islatentaciones.ml/media/posts/17/laislat3_programa7PLUS_1791.jpg" alt="" />
+                    Diego toma una decisión sobre Lola en la hoguera de confrontación. ¿Será el fin o el principio para ellos? Además,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://islatentaciones.ml/media/posts/17/laislat3_programa7PLUS_1791.jpg" alt="" />
+                <div id="player">Diego toma una decisión sobre Lola en la hoguera de confrontación. ¿Será el fin o el principio para ellos? Además, nuevas hogueras para los chicos y las chicas con imágenes que podrían cambiarlo todo y el inesperado acercamiento entre Lucía e Isaac, el soltero más deseado de esta edición, que provoca un enfrentamiento entre dos chicas.   </div>
+<p>
+<script>
+    var player = new Clappr.Player({source: "https://islatentaciones.ml/7.mp4", poster: 'https://album.mediaset.es/cimg/807010/2021/03/03/laislat3_programa7PLUS_1791.jpg', parentId: "#player"});
+  </script>
+</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Debate 6</title>
         <author>
@@ -227,31 +256,6 @@
                     <img src="https://islatentaciones.ml/media/posts/4/islatentaciones3_debate1_e02b.jpg" alt="" />
                 <p>Hacía cuatro meses que Melyssa Pinto y Tom Brusse no se veían. Los que fueran pareja en 'La isla de las tentaciones 2' hasta que él le fue infiel con una de las solteras, Sandra Pica, se reencontraban. También, este año, el programa incorpora una gran novedad: la luz de la tentación (25/01/2021).</p>
 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/2952927578684" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Programa 1</title>
-        <author>
-            <name>islatentaciones</name>
-        </author>
-        <link href="https://islatentaciones.ml/3x01.html"/>
-        <id>https://islatentaciones.ml/3x01.html</id>
-            <category term="Temporada 3"/>
-            <category term="Programas"/>
-
-        <updated>2021-03-01T19:09:09+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://islatentaciones.ml/media/posts/3/laislat3_programa1_239b.jpg" alt="" />
-                    Cinco nuevas parejas ponen a prueba sus relaciones para saber si están hechos los unos para los otros. Además de estar&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://islatentaciones.ml/media/posts/3/laislat3_programa1_239b.jpg" alt="" />
-                <p>Cinco nuevas parejas ponen a prueba sus relaciones para saber si están hechos los unos para los otros. Además de estar separados, tendrán que resistir la tentación conviviendo con solteros y solteras dispuestos a llegar hasta sus corazones. La confianza, la fidelidad y el respeto serán claves para el futuro de su relación, sin embargo, tal y como avisa Sandra Barneda: 'La isla de las tentaciones' ha cambiado para siempre. </p>
-<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/2947630172732" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>

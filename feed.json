@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://islatentaciones.ml/3x07.html",
+            "url": "https://islatentaciones.ml/3x07.html",
+            "title": "Programa 7",
+            "summary": "Diego toma una decisión sobre Lola en la hoguera de confrontación. ¿Será el fin o el principio para ellos? Además,&hellip;",
+            "content_html": "<div id=\"player\">Diego toma una decisión sobre Lola en la hoguera de confrontación. ¿Será el fin o el principio para ellos? Además, nuevas hogueras para los chicos y las chicas con imágenes que podrían cambiarlo todo y el inesperado acercamiento entre Lucía e Isaac, el soltero más deseado de esta edición, que provoca un enfrentamiento entre dos chicas.   </div>\n<p>\n<script>\n    var player = new Clappr.Player({source: \"https://islatentaciones.ml/7.mp4\", poster: 'https://album.mediaset.es/cimg/807010/2021/03/03/laislat3_programa7PLUS_1791.jpg', parentId: \"#player\"});\n  </script>\n</p>",
+            "image": "https://islatentaciones.ml/media/posts/17/laislat3_programa7PLUS_1791.jpg",
+            "author": {
+                "name": "islatentaciones"
+            },
+            "tags": [
+                   "Temporada 3",
+                   "Programas"
+            ],
+            "date_published": "2021-03-03T19:18:21+00:00",
+            "date_modified": "2021-03-03T19:43:58+00:00"
+        },
+        {
             "id": "https://islatentaciones.ml/debate-6.html",
             "url": "https://islatentaciones.ml/debate-6.html",
             "title": "Debate 6",
@@ -160,23 +177,6 @@
             ],
             "date_published": "2021-01-26T15:22:40+00:00",
             "date_modified": "2021-03-01T19:09:25+00:00"
-        },
-        {
-            "id": "https://islatentaciones.ml/3x01.html",
-            "url": "https://islatentaciones.ml/3x01.html",
-            "title": "Programa 1",
-            "summary": "Cinco nuevas parejas ponen a prueba sus relaciones para saber si están hechos los unos para los otros. Además de estar&hellip;",
-            "content_html": "<p>Cinco nuevas parejas ponen a prueba sus relaciones para saber si están hechos los unos para los otros. Además de estar separados, tendrán que resistir la tentación conviviendo con solteros y solteras dispuestos a llegar hasta sus corazones. La confianza, la fidelidad y el respeto serán claves para el futuro de su relación, sin embargo, tal y como avisa Sandra Barneda: 'La isla de las tentaciones' ha cambiado para siempre. </p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/2947630172732\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://islatentaciones.ml/media/posts/3/laislat3_programa1_239b.jpg",
-            "author": {
-                "name": "islatentaciones"
-            },
-            "tags": [
-                   "Temporada 3",
-                   "Programas"
-            ],
-            "date_published": "2021-01-25T22:35:14+00:00",
-            "date_modified": "2021-03-01T19:09:09+00:00"
         }
     ]
 }
