@@ -3,7 +3,7 @@
     <title>La isla de las tentaciones</title>
     <link href="https://islatentaciones.ml/feed.xml" rel="self" />
     <link href="https://islatentaciones.ml" />
-    <updated>2021-03-03T19:43:58+00:00</updated>
+    <updated>2021-03-03T19:47:26+00:00</updated>
     <author>
         <name>islatentaciones</name>
     </author>
@@ -19,7 +19,7 @@
             <category term="Temporada 3"/>
             <category term="Programas"/>
 
-        <updated>2021-03-03T19:43:58+00:00</updated>
+        <updated>2021-03-03T19:47:26+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://islatentaciones.ml/media/posts/17/laislat3_programa7PLUS_1791.jpg" alt="" />
@@ -32,7 +32,7 @@
                 <div id="player">Diego toma una decisión sobre Lola en la hoguera de confrontación. ¿Será el fin o el principio para ellos? Además, nuevas hogueras para los chicos y las chicas con imágenes que podrían cambiarlo todo y el inesperado acercamiento entre Lucía e Isaac, el soltero más deseado de esta edición, que provoca un enfrentamiento entre dos chicas.   </div>
 <p>
 <script>
-    var player = new Clappr.Player({source: "https://islatentaciones.ml/7.mp4", poster: 'https://album.mediaset.es/cimg/807010/2021/03/03/laislat3_programa7PLUS_1791.jpg', parentId: "#player"});
+    var player = new Clappr.Player({source: "https://streamable.com/l/8cs8f3/mp4.mp4", poster: 'https://album.mediaset.es/cimg/807010/2021/03/03/laislat3_programa7PLUS_1791.jpg', parentId: "#player"});
   </script>
 </p>
             ]]>
