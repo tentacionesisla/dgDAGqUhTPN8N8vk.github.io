@@ -3,7 +3,7 @@
     <title>La isla de las tentaciones</title>
     <link href="https://islatentaciones.ml/feed.xml" rel="self" />
     <link href="https://islatentaciones.ml" />
-    <updated>2021-03-03T19:57:28+00:00</updated>
+    <updated>2021-03-03T19:59:19+00:00</updated>
     <author>
         <name>islatentaciones</name>
     </author>
@@ -19,7 +19,7 @@
             <category term="Temporada 3"/>
             <category term="Programas"/>
 
-        <updated>2021-03-03T19:57:28+00:00</updated>
+        <updated>2021-03-03T19:59:19+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://islatentaciones.ml/media/posts/17/laislat3_programa7PLUS_1791.jpg" alt="" />
@@ -33,17 +33,9 @@
 <p><video loading="lazy" width="640" height="264" id="my-video" class="video-js" controls="controls" preload="none" poster="https://album.mediaset.es/cimg/807010/2021/03/03/laislat3_programa7PLUS_1791.jpg" data-setup="{}">
     <source src="https://streamable.com/l/8cs8f3/mp4.mp4" type="video/mp4" />
    
-    <p class="vjs-no-js">
-      To view this video please enable JavaScript, and consider upgrading to a
-      web browser that
-      <a href="https://videojs.com/html5-video-support/" target="_blank">supports HTML5 video&lt;/a
-      &gt;
-    </a></p>
+   
   </video>
 <script src="https://vjs.zencdn.net/7.10.2/video.min.js"></script>
-<script>
-    var player = new Clappr.Player({source: "https://streamable.com/l/8cs8f3/mp4.mp4", poster: 'https://album.mediaset.es/cimg/807010/2021/03/03/laislat3_programa7PLUS_1791.jpg', parentId: "#player"});
-  </script>
 </p>
             ]]>
         </content>
