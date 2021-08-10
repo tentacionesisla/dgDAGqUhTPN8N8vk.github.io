@@ -1,257 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>La isla de las tentaciones</title>
-    <link href="https://islatentaciones.ml/feed.xml" rel="self" />
-    <link href="https://islatentaciones.ml" />
-    <updated>2021-03-03T22:27:50+00:00</updated>
+    <title>El club de las tentaciones</title>
+    <link href="https://clubtentaciones.ga/feed.xml" rel="self" />
+    <link href="https://clubtentaciones.ga" />
+    <updated>2021-08-10T02:42:55+00:00</updated>
     <author>
-        <name>islatentaciones</name>
+        <name>tentaciones</name>
     </author>
-    <id>https://islatentaciones.ml</id>
+    <id>https://clubtentaciones.ga</id>
 
     <entry>
-        <title>Programa 7</title>
+        <title>&#x27;Regreso a la última tentación&#x27;</title>
         <author>
-            <name>islatentaciones</name>
+            <name>tentaciones</name>
         </author>
-        <link href="https://islatentaciones.ml/3x07.html"/>
-        <id>https://islatentaciones.ml/3x07.html</id>
-            <category term="Temporada 3"/>
-            <category term="Programas"/>
+        <link href="https://clubtentaciones.ga/llega-regreso-a-la-ultima-tentacion.html"/>
+        <id>https://clubtentaciones.ga/llega-regreso-a-la-ultima-tentacion.html</id>
 
-        <updated>2021-03-03T22:27:50+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://islatentaciones.ml/media/posts/17/laislat3_programa7PLUS_1791.jpg" alt="" />
-                    Diego toma una decisión sobre Lola en la hoguera de confrontación. ¿Será el fin o el principio para ellos? Además,&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://islatentaciones.ml/media/posts/17/laislat3_programa7PLUS_1791.jpg" alt="" />
-                <div id="player">Diego toma una decisión sobre Lola en la hoguera de confrontación. ¿Será el fin o el principio para ellos? Además, nuevas hogueras para los chicos y las chicas con imágenes que podrían cambiarlo todo y el inesperado acercamiento entre Lucía e Isaac, el soltero más deseado de esta edición, que provoca un enfrentamiento entre dos chicas.   </div>
-<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/2970631146044" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Debate 6</title>
-        <author>
-            <name>islatentaciones</name>
-        </author>
-        <link href="https://islatentaciones.ml/debate-6.html"/>
-        <id>https://islatentaciones.ml/debate-6.html</id>
-            <category term="Temporada 3"/>
-            <category term="Debates"/>
-
-        <updated>2021-03-02T15:05:26+00:00</updated>
+        <updated>2021-08-10T02:42:55+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://islatentaciones.ml/media/posts/16/islatentaciones3_debate6_ad74.jpg" alt="" />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/2967881779772" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Programa 6</title>
-        <author>
-            <name>islatentaciones</name>
-        </author>
-        <link href="https://islatentaciones.ml/3x06.html"/>
-        <id>https://islatentaciones.ml/3x06.html</id>
-            <category term="Temporada 3"/>
-            <category term="Programas"/>
-
-        <updated>2021-03-01T19:11:12+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://islatentaciones.ml/media/posts/14/laislat3-programa6-PLUS_0d90.jpg" alt="" />
-                     Llegan las terceras hogueras para ellos y para ellas y Diego pide por primera vez en esta edición una&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://islatentaciones.ml/media/posts/14/laislat3-programa6-PLUS_0d90.jpg" alt="" />
-                <p> </p>
-<p>Llegan las terceras hogueras para ellos y para ellas y Diego pide por primera vez en esta edición una hoguera de confrontación con Lola. Si su pareja no lo acepta, él deberá abandonar el programa inmediatamente.</p>
-<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/2957551602236" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Debate 5</title>
-        <author>
-            <name>islatentaciones</name>
-        </author>
-        <link href="https://islatentaciones.ml/debate-5.html"/>
-        <id>https://islatentaciones.ml/debate-5.html</id>
-            <category term="Temporada 3"/>
-            <category term="Debates"/>
-
-        <updated>2021-03-01T19:10:56+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://islatentaciones.ml/media/posts/13/islatentaciones3_debate5_ec66.jpg" alt="" />
-                    Melyssa Pinto ha confirmado en 'El debate de las tentaciones' que ha roto con su novio, Manuel. La extronista de 'Mujeres y hombres y&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://islatentaciones.ml/media/posts/13/islatentaciones3_debate5_ec66.jpg" alt="" />
-                <p>Melyssa Pinto ha confirmado en 'El debate de las tentaciones' que ha roto con su novio, Manuel. La extronista de 'Mujeres y hombres y viceversa' lo había anunciado en sus redes sociales y éstas 'ardieron' ante la noticia. Por eso Sandra Barneda no pudo evitar preguntarle en el directo de la gala (22/02/2021).</p>
-<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/2955625564732" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Programa 5</title>
-        <author>
-            <name>islatentaciones</name>
-        </author>
-        <link href="https://islatentaciones.ml/3x05.html"/>
-        <id>https://islatentaciones.ml/3x05.html</id>
-            <category term="Temporada 3"/>
-            <category term="Programas"/>
-
-        <updated>2021-03-01T19:10:44+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://islatentaciones.ml/media/posts/9/laislat3_programa5_5c4d.jpg" alt="" />
-                    El collar del veto entra en juego y los participantes eligen a un tentador y una tentadora que no podrá&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://islatentaciones.ml/media/posts/9/laislat3_programa5_5c4d.jpg" alt="" />
-                <p>El collar del veto entra en juego y los participantes eligen a un tentador y una tentadora que no podrá tener citas. Además, uno de los chicos tendrá la oportunidad de ver 10 minutos en directo lo que hace su novia. </p>
-<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/2947624602172" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Programa 4</title>
-        <author>
-            <name>islatentaciones</name>
-        </author>
-        <link href="https://islatentaciones.ml/3x04.html"/>
-        <id>https://islatentaciones.ml/3x04.html</id>
-            <category term="Temporada 3"/>
-            <category term="Programas"/>
-
-        <updated>2021-03-01T19:10:31+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://islatentaciones.ml/media/posts/8/laislat3_programa4_f733.jpg" alt="" />
-                    Los chicos y las chicas se enfrentan a su segunda hoguera. Todos tienen mucho que ver… y que contar. Además,&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://islatentaciones.ml/media/posts/8/laislat3_programa4_f733.jpg" alt="" />
-                <p>Los chicos y las chicas se enfrentan a su segunda hoguera. Todos tienen mucho que ver… y que contar. Además, llega una nueva regla que puede cambiarlo todo en las parejas. </p>
-<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/2947670084156" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Programa 3</title>
-        <author>
-            <name>islatentaciones</name>
-        </author>
-        <link href="https://islatentaciones.ml/3x03.html"/>
-        <id>https://islatentaciones.ml/3x03.html</id>
-            <category term="Temporada 3"/>
-            <category term="Programas"/>
-
-        <updated>2021-03-01T19:10:16+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://islatentaciones.ml/media/posts/7/laislat3_programa3PLUS_78ac.jpg" alt="" />
-                    A partir de ahora empieza el juego de verdad. Tras la primera hoguera de los chicos, le toca el turno&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://islatentaciones.ml/media/posts/7/laislat3_programa3PLUS_78ac.jpg" alt="" />
-                <p>A partir de ahora empieza el juego de verdad. Tras la primera hoguera de los chicos, le toca el turno a ellas. Lara, Marina, Claudia, Lucía y Lola ven las imágenes de cómo se comportan sus novios en la villa y no son lo que esperaban. Además, un nuevo tentador y una nueva tentadora entran en el juego.</p>
-<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/2947633842748" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Debate 2</title>
-        <author>
-            <name>islatentaciones</name>
-        </author>
-        <link href="https://islatentaciones.ml/debate-2.html"/>
-        <id>https://islatentaciones.ml/debate-2.html</id>
-            <category term="Temporada 3"/>
-            <category term="Debates"/>
-
-        <updated>2021-03-01T19:10:03+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://islatentaciones.ml/media/posts/6/islatentaciones3_debate2_09a2.jpg" alt="" />
-                    Melyssa cuenta a Sandra que Tom quería tomarse un café con ella tras su reencuentro en 'El debate', Además, Rubén Sánchez,&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://islatentaciones.ml/media/posts/6/islatentaciones3_debate2_09a2.jpg" alt="" />
-                <p>Melyssa cuenta a Sandra que Tom quería tomarse un café con ella tras su reencuentro en 'El debate', Además, Rubén Sánchez, uno de los protagonistas de la primera edición, ha sido confirmado como el nuevo 'tentador VIP' de Villa Montaña. En 'El debate de las tentaciones', Fani no pudo contenerse tras la confirmación de Rubén como nuevo tentador. Le acusó de "hipócrita" (01/02/2021).</p>
-<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/2952932887100" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Programa 2</title>
-        <author>
-            <name>islatentaciones</name>
-        </author>
-        <link href="https://islatentaciones.ml/3x02.html"/>
-        <id>https://islatentaciones.ml/3x02.html</id>
-            <category term="Temporada 3"/>
-            <category term="Programas"/>
-
-        <updated>2021-03-01T19:09:40+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://islatentaciones.ml/media/posts/5/alaislat3_programa2_0758.jpg" alt="" />
-                    Saltan las alarmas de la casa. Por primera vez se enciende la 'luz de la tentación'. Eso quiere decir que&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://islatentaciones.ml/media/posts/5/alaislat3_programa2_0758.jpg" alt="" />
-                <p>Saltan las alarmas de la casa. Por primera vez se enciende la 'luz de la tentación'. Eso quiere decir que algo ha pasado en una de las dos villas y que alguien ha sobrepasado los límites que las parejas marcaron antes de comenzar esta aventura. Además, los chicos se enfrentan a su primera hoguera con imágenes de lo que están haciendo sus parejas.  </p>
-<p> </p>
-<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/2947627092540" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Debate 1</title>
-        <author>
-            <name>islatentaciones</name>
-        </author>
-        <link href="https://islatentaciones.ml/debate-1.html"/>
-        <id>https://islatentaciones.ml/debate-1.html</id>
-            <category term="Temporada 3"/>
-            <category term="Debates"/>
-
-        <updated>2021-03-01T19:09:25+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://islatentaciones.ml/media/posts/4/islatentaciones3_debate1_e02b.jpg" alt="" />
-                    Hacía cuatro meses que Melyssa Pinto y Tom Brusse no se veían. Los que fueran pareja en 'La isla de las tentaciones 2' hasta&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://islatentaciones.ml/media/posts/4/islatentaciones3_debate1_e02b.jpg" alt="" />
-                <p>Hacía cuatro meses que Melyssa Pinto y Tom Brusse no se veían. Los que fueran pareja en 'La isla de las tentaciones 2' hasta que él le fue infiel con una de las solteras, Sandra Pica, se reencontraban. También, este año, el programa incorpora una gran novedad: la luz de la tentación (25/01/2021).</p>
-<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/2952927578684" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+                    <img src="https://clubtentaciones.ga/media/posts/3/clipping_f0hLhW_9522.jpg" alt="" />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3327170579004" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
