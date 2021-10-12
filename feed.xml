@@ -3,7 +3,7 @@
     <title>El club de las tentaciones</title>
     <link href="https://islatentaciones.ml/feed.xml" rel="self" />
     <link href="https://islatentaciones.ml" />
-    <updated>2021-10-12T13:12:29+00:00</updated>
+    <updated>2021-10-12T13:20:33+00:00</updated>
     <author>
         <name>tentaciones</name>
     </author>
@@ -41,16 +41,14 @@
         </author>
         <link href="https://islatentaciones.ml/debate-4.html"/>
         <id>https://islatentaciones.ml/debate-4.html</id>
+            <category term="A la carta"/>
 
-        <updated>2021-10-12T13:04:04+00:00</updated>
-            <summary>
-                <![CDATA[
-                    Disponible en breves
-                ]]>
-            </summary>
+        <updated>2021-10-12T13:20:33+00:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                <p>Disponible en breves</p>
+                    <img src="https://islatentaciones.ml/media/posts/13/laultumatentacion_debate4_4b2c.jpg" alt="" />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3472262302268" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
