@@ -3,7 +3,7 @@
     <title>El club de las tentaciones</title>
     <link href="https://islatentaciones.ml/feed.xml" rel="self" />
     <link href="https://islatentaciones.ml" />
-    <updated>2021-10-26T12:57:00+00:00</updated>
+    <updated>2021-10-26T13:04:39+00:00</updated>
     <author>
         <name>tentaciones</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://islatentaciones.ml/programa-7.html</id>
             <category term="A la carta"/>
 
-        <updated>2021-10-26T12:57:00+00:00</updated>
+        <updated>2021-10-26T13:04:39+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://islatentaciones.ml/media/posts/18/laultimatentacion_7PLUS_8211.jpg" alt="" />
@@ -30,11 +30,7 @@
                     <img src="https://islatentaciones.ml/media/posts/18/laultimatentacion_7PLUS_8211.jpg" alt="" />
                 <h2><strong>EL VIDEO SE ESTA PROCESANDO, SI NO FUNCIONA, REINICIA E INTENTA DE NUEVO. </strong></h2>
 <p> </p>
-<p>
-<script>
-    var player = new Clappr.Player({source: "https://islatentaciones.ml/fa.mp4", parentId: "#player"});
-  </script>
-</p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/2970631146045" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
