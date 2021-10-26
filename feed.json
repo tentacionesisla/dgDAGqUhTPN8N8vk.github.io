@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://islatentaciones.ml/debate-6.html",
+            "url": "https://islatentaciones.ml/debate-6.html",
+            "title": "Debate 6",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3524741368380\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://islatentaciones.ml/media/posts/17/laultumatentacion_debate6_8fbf.jpg",
+            "author": {
+                "name": "tentaciones"
+            },
+            "tags": [
+                   "A la carta"
+            ],
+            "date_published": "2021-10-26T02:35:45+00:00",
+            "date_modified": "2021-10-26T02:35:45+00:00"
+        },
+        {
             "id": "https://islatentaciones.ml/programa-6.html",
             "url": "https://islatentaciones.ml/programa-6.html",
             "title": "Programa 6",
@@ -147,20 +162,6 @@
             ],
             "date_published": "2021-10-05T11:52:53+00:00",
             "date_modified": "2021-10-05T13:06:52+00:00"
-        },
-        {
-            "id": "https://islatentaciones.ml/debate-1.html",
-            "url": "https://islatentaciones.ml/debate-1.html",
-            "title": "Debate 1",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3425770670652\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "author": {
-                "name": "tentaciones"
-            },
-            "tags": [
-                   "A la carta"
-            ],
-            "date_published": "2021-10-05T11:50:28+00:00",
-            "date_modified": "2021-10-05T11:50:44+00:00"
         }
     ]
 }
