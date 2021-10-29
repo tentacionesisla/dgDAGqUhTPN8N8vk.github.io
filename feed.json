@@ -10,9 +10,27 @@
     },
     "items": [
         {
+            "id": "https://islatentaciones.ml/programas-2.html",
+            "url": "https://islatentaciones.ml/programas-2.html",
+            "title": "Programas",
+            "summary": " window.location = \"https://islatentaciones.ml/tags/ultimatentacion/\"; ",
+            "content_html": "<p>\n<script type=\"text/javascript\">\n    window.location = \"https://islatentaciones.ml/tags/ultimatentacion/\";\n</script>\n</p>",
+            "image": "https://islatentaciones.ml/media/posts/23/laultimatentacion_7PLUS_8211.jpg",
+            "author": {
+                "name": "tentaciones"
+            },
+            "tags": [
+                   "La ultima tentacion"
+            ],
+            "date_published": "2021-10-29T02:46:40+00:00",
+            "date_modified": "2021-10-29T02:49:02+00:00"
+        },
+        {
             "id": "https://islatentaciones.ml/debates.html",
             "url": "https://islatentaciones.ml/debates.html",
             "title": "Debates",
+            "summary": " window.location = \"https://islatentaciones.ml/tags/ultimatentacion-debates/\"; ",
+            "content_html": "<p>\n<script type=\"text/javascript\">\n    window.location = \"https://islatentaciones.ml/tags/ultimatentacion-debates/\";\n</script>\n</p>",
             "image": "https://islatentaciones.ml/media/posts/22/laultumatentacion_debate6_8fbf.jpg",
             "author": {
                 "name": "tentaciones"
@@ -21,21 +39,7 @@
                    "La ultima tentacion"
             ],
             "date_published": "2021-10-29T02:41:42+00:00",
-            "date_modified": "2021-10-29T02:41:42+00:00"
-        },
-        {
-            "id": "https://islatentaciones.ml/programas.html",
-            "url": "https://islatentaciones.ml/programas.html",
-            "title": "Programas",
-            "image": "https://islatentaciones.ml/media/posts/21/laultimatentacion_7PLUS_8211.jpg",
-            "author": {
-                "name": "tentaciones"
-            },
-            "tags": [
-                   "La ultima tentacion"
-            ],
-            "date_published": "2021-10-29T02:40:40+00:00",
-            "date_modified": "2021-10-29T02:41:26+00:00"
+            "date_modified": "2021-10-29T02:49:24+00:00"
         },
         {
             "id": "https://islatentaciones.ml/la-ultima-tentacion.html",
@@ -50,7 +54,7 @@
             "tags": [
             ],
             "date_published": "2021-10-29T02:31:57+00:00",
-            "date_modified": "2021-10-29T02:44:31+00:00"
+            "date_modified": "2021-10-29T02:48:49+00:00"
         },
         {
             "id": "https://islatentaciones.ml/llega-la-isla-de-las-tentaciones-4.html",
