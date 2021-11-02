@@ -3,7 +3,7 @@
     <title>El club de las tentaciones</title>
     <link href="https://islatentaciones.ml/feed.xml" rel="self" />
     <link href="https://islatentaciones.ml" />
-    <updated>2021-11-02T14:01:21+00:00</updated>
+    <updated>2021-11-02T14:05:07+00:00</updated>
     <author>
         <name>tentaciones</name>
     </author>
@@ -18,17 +18,12 @@
         <id>https://islatentaciones.ml/programa-8.html</id>
             <category term="LUT - Programas"/>
 
-        <updated>2021-11-02T13:59:10+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://islatentaciones.ml/media/posts/25/laultimatentacion_8PLUS_8d8c.jpg" alt="" />
-                    Disponible en breves
-                ]]>
-            </summary>
+        <updated>2021-11-02T14:05:07+00:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://islatentaciones.ml/media/posts/25/laultimatentacion_8PLUS_8d8c.jpg" alt="" />
-                <h2 class="align-center"><strong>Disponible en breves</strong></h2>
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3555097643580" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
