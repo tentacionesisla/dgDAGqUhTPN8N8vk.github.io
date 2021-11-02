@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://islatentaciones.ml/debate-7.html",
+            "url": "https://islatentaciones.ml/debate-7.html",
+            "title": "Debate 7",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3554826652220\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://islatentaciones.ml/media/posts/24/laultumatentacion_debate7_5922.jpg",
+            "author": {
+                "name": "tentaciones"
+            },
+            "tags": [
+                   "LUT - Debates"
+            ],
+            "date_published": "2021-11-02T12:08:23+00:00",
+            "date_modified": "2021-11-02T12:08:23+00:00"
+        },
+        {
             "id": "https://islatentaciones.ml/programas-2.html",
             "url": "https://islatentaciones.ml/programas-2.html",
             "title": "Programas",
@@ -31,7 +46,7 @@
             "title": "Debates",
             "summary": " window.location = \"https://islatentaciones.ml/tags/ultimatentacion-debates/\"; ",
             "content_html": "<p>\n<script type=\"text/javascript\">\n    window.location = \"https://islatentaciones.ml/tags/ultimatentacion-debates/\";\n</script>\n</p>",
-            "image": "https://islatentaciones.ml/media/posts/22/laultumatentacion_debate6_8fbf.jpg",
+            "image": "https://islatentaciones.ml/media/posts/22/laultumatentacion_debate7_5922.jpg",
             "author": {
                 "name": "tentaciones"
             },
@@ -39,7 +54,7 @@
                    "La ultima tentacion"
             ],
             "date_published": "2021-10-29T02:41:42+00:00",
-            "date_modified": "2021-10-29T02:49:24+00:00"
+            "date_modified": "2021-11-02T11:56:06+00:00"
         },
         {
             "id": "https://islatentaciones.ml/la-ultima-tentacion.html",
@@ -148,21 +163,6 @@
             ],
             "date_published": "2021-10-12T13:04:12+00:00",
             "date_modified": "2021-10-29T02:38:40+00:00"
-        },
-        {
-            "id": "https://islatentaciones.ml/debate-4.html",
-            "url": "https://islatentaciones.ml/debate-4.html",
-            "title": "Debate 4",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3472262302268\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://islatentaciones.ml/media/posts/13/laultumatentacion_debate4_4b2c.jpg",
-            "author": {
-                "name": "tentaciones"
-            },
-            "tags": [
-                   "LUT - Debates"
-            ],
-            "date_published": "2021-10-12T13:04:04+00:00",
-            "date_modified": "2021-10-29T02:38:28+00:00"
         }
     ]
 }
