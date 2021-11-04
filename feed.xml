@@ -3,7 +3,7 @@
     <title>El club de las tentaciones</title>
     <link href="https://islatentaciones.ml/feed.xml" rel="self" />
     <link href="https://islatentaciones.ml" />
-    <updated>2021-11-04T00:08:23+00:00</updated>
+    <updated>2021-11-04T00:09:52+00:00</updated>
     <author>
         <name>tentaciones</name>
     </author>
@@ -18,9 +18,14 @@
         <id>https://islatentaciones.ml/programa-0-2.html</id>
             <category term="LIDLT: Programas"/>
 
-        <updated>2021-11-04T00:08:23+00:00</updated>
+        <updated>2021-11-04T00:09:52+00:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://islatentaciones.ml/media/posts/28/laisladelastentaciones4_0PLUS_9a79.jpg" alt="" />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3558891326012" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Programas</title>
