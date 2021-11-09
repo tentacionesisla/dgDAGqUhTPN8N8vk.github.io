@@ -29,8 +29,7 @@
             "id": "https://islatentaciones.ml/debate-8.html",
             "url": "https://islatentaciones.ml/debate-8.html",
             "title": "Debate 8",
-            "summary": "Se esta subiendo",
-            "content_html": "<p>Se esta subiendo</p>",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3575135996476\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "image": "https://islatentaciones.ml/media/posts/29/eldebate_081121_1214.jpg",
             "author": {
                 "name": "tentaciones"
@@ -39,7 +38,7 @@
                    "LUT - Debates"
             ],
             "date_published": "2021-11-09T13:58:51+00:00",
-            "date_modified": "2021-11-09T13:58:51+00:00"
+            "date_modified": "2021-11-09T14:00:07+00:00"
         },
         {
             "id": "https://islatentaciones.ml/programa-0-2.html",

@@ -3,7 +3,7 @@
     <title>El club de las tentaciones</title>
     <link href="https://islatentaciones.ml/feed.xml" rel="self" />
     <link href="https://islatentaciones.ml" />
-    <updated>2021-11-09T13:59:32+00:00</updated>
+    <updated>2021-11-09T14:00:07+00:00</updated>
     <author>
         <name>tentaciones</name>
     </author>
@@ -41,17 +41,12 @@
         <id>https://islatentaciones.ml/debate-8.html</id>
             <category term="LUT - Debates"/>
 
-        <updated>2021-11-09T13:58:51+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://islatentaciones.ml/media/posts/29/eldebate_081121_1214.jpg" alt="" />
-                    Se esta subiendo
-                ]]>
-            </summary>
+        <updated>2021-11-09T14:00:07+00:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://islatentaciones.ml/media/posts/29/eldebate_081121_1214.jpg" alt="" />
-                <p>Se esta subiendo</p>
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3575135996476" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
