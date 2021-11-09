@@ -10,6 +10,38 @@
     },
     "items": [
         {
+            "id": "https://islatentaciones.ml/programa-1-2.html",
+            "url": "https://islatentaciones.ml/programa-1-2.html",
+            "title": "Programa 1",
+            "summary": "SE ESTA SUBIENDO",
+            "content_html": "<h2><strong>SE ESTA SUBIENDO</strong></h2>",
+            "image": "https://islatentaciones.ml/media/posts/30/LIDLT-1PLUS_f562.jpg",
+            "author": {
+                "name": "tentaciones"
+            },
+            "tags": [
+                   "LIDLT: Programas"
+            ],
+            "date_published": "2021-11-09T13:59:21+00:00",
+            "date_modified": "2021-11-09T13:59:21+00:00"
+        },
+        {
+            "id": "https://islatentaciones.ml/debate-8.html",
+            "url": "https://islatentaciones.ml/debate-8.html",
+            "title": "Debate 8",
+            "summary": "Se esta subiendo",
+            "content_html": "<p>Se esta subiendo</p>",
+            "image": "https://islatentaciones.ml/media/posts/29/eldebate_081121_1214.jpg",
+            "author": {
+                "name": "tentaciones"
+            },
+            "tags": [
+                   "LUT - Debates"
+            ],
+            "date_published": "2021-11-09T13:58:51+00:00",
+            "date_modified": "2021-11-09T13:58:51+00:00"
+        },
+        {
             "id": "https://islatentaciones.ml/programa-0-2.html",
             "url": "https://islatentaciones.ml/programa-0-2.html",
             "title": "Programa 0",
@@ -30,7 +62,7 @@
             "title": "Programas",
             "summary": " window.location = \"https://islatentaciones.ml/tags/it-programas/\"; ",
             "content_html": "<p>\n<script type=\"text/javascript\">\n    window.location = \"https://islatentaciones.ml/tags/it-programas/\";\n</script>\n</p>",
-            "image": "https://islatentaciones.ml/media/posts/27/laisladelastentaciones4_0PLUS_9a79.jpg",
+            "image": "https://islatentaciones.ml/media/posts/27/LIDLT-1PLUS_f562.jpg",
             "author": {
                 "name": "tentaciones"
             },
@@ -38,7 +70,7 @@
                    "La isla de las tentaciones"
             ],
             "date_published": "2021-11-04T00:06:08+00:00",
-            "date_modified": "2021-11-04T00:08:03+00:00"
+            "date_modified": "2021-11-09T13:59:32+00:00"
         },
         {
             "id": "https://islatentaciones.ml/la-isla-de-las-tentaciones.html",
@@ -107,7 +139,7 @@
             "title": "Debates",
             "summary": " window.location = \"https://islatentaciones.ml/tags/ultimatentacion-debates/\"; ",
             "content_html": "<p>\n<script type=\"text/javascript\">\n    window.location = \"https://islatentaciones.ml/tags/ultimatentacion-debates/\";\n</script>\n</p>",
-            "image": "https://islatentaciones.ml/media/posts/22/laultumatentacion_debate7_5922.jpg",
+            "image": "https://islatentaciones.ml/media/posts/22/eldebate_081121_1214.jpg",
             "author": {
                 "name": "tentaciones"
             },
@@ -115,7 +147,7 @@
                    "La ultima tentacion"
             ],
             "date_published": "2021-10-29T02:41:42+00:00",
-            "date_modified": "2021-11-02T11:56:06+00:00"
+            "date_modified": "2021-11-09T13:54:06+00:00"
         },
         {
             "id": "https://islatentaciones.ml/la-ultima-tentacion.html",
@@ -131,37 +163,6 @@
             ],
             "date_published": "2021-10-29T02:31:57+00:00",
             "date_modified": "2021-11-04T00:06:22+00:00"
-        },
-        {
-            "id": "https://islatentaciones.ml/programa-7.html",
-            "url": "https://islatentaciones.ml/programa-7.html",
-            "title": "Programa 7",
-            "summary": " ",
-            "content_html": "<p> </p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3525658348092\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://islatentaciones.ml/media/posts/18/laultimatentacion_7PLUS_8211.jpg",
-            "author": {
-                "name": "tentaciones"
-            },
-            "tags": [
-                   "LUT - Programas"
-            ],
-            "date_published": "2021-10-26T02:37:25+00:00",
-            "date_modified": "2021-10-29T02:39:29+00:00"
-        },
-        {
-            "id": "https://islatentaciones.ml/debate-6.html",
-            "url": "https://islatentaciones.ml/debate-6.html",
-            "title": "Debate 6",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3524741368380\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://islatentaciones.ml/media/posts/17/laultumatentacion_debate6_8fbf.jpg",
-            "author": {
-                "name": "tentaciones"
-            },
-            "tags": [
-                   "LUT - Debates"
-            ],
-            "date_published": "2021-10-26T02:35:45+00:00",
-            "date_modified": "2021-10-29T02:39:15+00:00"
         }
     ]
 }
